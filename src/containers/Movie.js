@@ -28,7 +28,7 @@ class Movie extends Component {
                         </div>
                         <div className="col-md-12"><hr /></div>
                         <div className="col-md-4">
-                            <h3>Cast</h3>
+                            <h3>Cast นักแสดง</h3>
                         </div>
                         <div className="col-md-8">
                         <iframe width="100%" height="450" src="https://www.youtube.com/embed/766qmHTc2ro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
